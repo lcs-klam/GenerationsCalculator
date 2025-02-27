@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct CalculatorView {
+struct GenerationCalculator {
 
     // MARK: Stored properties
     var age: Int
